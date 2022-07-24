@@ -28,7 +28,7 @@
     ],
     [
       "",
-      "観光スポット",
+      "おすすめスポット",
       "https://kasaoka-kankou.github.io/kasaoka-kankou-spot/pic_spot03_sd01.jpeg",
       "34.477316",
       "133.521405",
@@ -40,7 +40,7 @@
     ],
     [
       "",
-      "観光スポット",
+      "おすすめスポット",
       "https://kasaoka-kankou.github.io/kasaoka-kankou-spot/pic_spot04_sd01.jpeg",
       "34.497047",
       "133.516331",
@@ -52,7 +52,7 @@
     ],
     [
       "",
-      "観光スポット",
+      "おすすめスポット",
       "https://kasaoka-kankou.github.io/kasaoka-kankou-spot/pic_spot11_sd01.jpeg",
       "34.502435",
       "133.495178",
@@ -64,7 +64,7 @@
     ],
     [
       "",
-      "観光スポット",
+      "おすすめスポット",
       "https://kasaoka-kankou.github.io/kasaoka-kankou-spot/10608.jpeg",
       "34.579275",
       "133.521818",
@@ -76,7 +76,7 @@
     ],
     [
       "",
-      "観光スポット",
+      "おすすめスポット",
       "https://kasaoka-kankou.github.io/kasaoka-kankou-spot/68f349f14d8799df43494bf6948708091.jpeg",
       "34.474165",
       "133.516726",
@@ -88,7 +88,7 @@
     ],
     [
       "",
-      "観光スポット",
+      "おすすめスポット",
       "https://kasaoka-kankou.github.io/kasaoka-kankou-spot/IMG_4567.jpeg",
       "34.508827",
       "133.505902",
@@ -100,7 +100,7 @@
     ],
     [
       "",
-      "観光スポット",
+      "おすすめスポット",
       "https://kasaoka-kankou.github.io/kasaoka-kankou-spot/3993.jpeg",
       "34.504609",
       "133.496842",
@@ -112,7 +112,7 @@
     ],
     [
       "",
-      "観光スポット",
+      "おすすめスポット",
       "https://kasaoka-kankou.github.io/kasaoka-kankou-spot/003.jpeg",
       "34.56916",
       "133.525942",
@@ -124,7 +124,7 @@
     ],
     [
       "",
-      "観光スポット",
+      "おすすめスポット",
       "https://kasaoka-kankou.github.io/kasaoka-kankou-spot/1fa6564101f0140b414dde07b4b77121.jpeg",
       "34.454602",
       "133.515016",
@@ -136,7 +136,7 @@
     ],
     [
       "",
-      "観光スポット",
+      "おすすめスポット",
       "https://kasaoka-kankou.github.io/kasaoka-kankou-spot/1ec045cfd0ce8be2250ee86e224ae3d8.jpeg",
       "34.50239",
       "133.506616",
@@ -148,7 +148,7 @@
     ],
     [
       "",
-      "観光スポット",
+      "おすすめスポット",
       "https://kasaoka-kankou.github.io/kasaoka-kankou-spot/IMG_2073.jpeg",
       "34.506446",
       "133.505996",
@@ -160,7 +160,7 @@
     ],
     [
       "",
-      "観光スポット",
+      "おすすめスポット",
       "https://kasaoka-kankou.github.io/kasaoka-kankou-spot/IMG_0027.jpeg",
       "34.487789",
       "133.536659",
@@ -172,7 +172,7 @@
     ],
     [
       "",
-      "観光スポット",
+      "おすすめスポット",
       "https://kasaoka-kankou.github.io/kasaoka-kankou-spot/pic_spot13_sd01.jpeg",
       "34.513675",
       "133.481613",
@@ -184,7 +184,7 @@
     ],
     [
       "",
-      "観光スポット",
+      "おすすめスポット",
       "https://kasaoka-kankou.github.io/kasaoka-kankou-spot/cfbeda0be6dad19dc77c81530fd3ebb2.jpeg",
       "34.499475",
       "133.479621",
@@ -196,12 +196,16 @@
     ],
     [
       "",
-      "観光スポット",
+      "おすすめスポット",
       "https://kasaoka-kankou.github.io/kasaoka-kankou-spot/adtDSC_7716-750x499.jpeg",
       "34.467332",
       "133.557447",
       "大島美の浜漁協朝市",
       "大島美の浜漁協本所施設内にて、豊富な魚介類を取り扱っています。"
+    ],
+    [
+      "",
+      "おすすめスポット"
     ]
   ]
 }
